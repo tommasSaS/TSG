@@ -45,14 +45,8 @@ def  select():
   try:
     choice = input("Crips~# ")
     if choice == 1:
-_/// _//////  _// //     _////
-     _//    _//    _// _/    _//
-     _//     _//      _//
-     _//       _//    _//
-     _//          _// _//   _////
-     _//    _//    _// _//    _/
-     _//      _// //    _/////                               
-      """)
+
+                     """)
       os.system("curl http://api.hackertarget.com/whois/?q=" + d3)
       print("")
       quit()
